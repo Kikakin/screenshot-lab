@@ -1,0 +1,58 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+  <rect width="1200" height="780" fill="#fbfcff"/>
+  <rect width="1200" height="62" fill="#ffffff"/>
+  <path d="M0 62h1200" stroke="#e8edf5"/>
+  <rect x="34" y="22" width="19" height="19" rx="6" fill="#5366df"/>
+  <path d="m39 31 4 4 6-9" stroke="#fff" stroke-width="2.5" fill="none" stroke-linecap="round" stroke-linejoin="round"/>
+  <text x="65" y="37" font-family="Arial,sans-serif" font-size="17" font-weight="700" fill="#1b2745">Northstar</text>
+  <text x="1010" y="37" font-family="Arial,sans-serif" font-size="14" fill="#64718b">My workspace</text>
+  <circle cx="1150" cy="31" r="17" fill="#d8deff"/>
+  <text x="1144" y="37" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#5366df">A</text>
+  <rect y="62" width="222" height="718" fill="#f7f9fd"/>
+  <path d="M222 62v718" stroke="#e8edf5"/>
+  <text x="34" y="112" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#9aa7bc">WORKSPACE</text>
+  <rect x="19" y="134" width="184" height="41" rx="10" fill="#e8ebff"/>
+  <circle cx="42" cy="155" r="7" fill="#6676e9"/>
+  <text x="61" y="161" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#3a4dba">Overview</text>
+  <text x="61" y="211" font-family="Arial,sans-serif" font-size="14" fill="#71809b">Projects</text>
+  <text x="61" y="252" font-family="Arial,sans-serif" font-size="14" fill="#71809b">Notes</text>
+  <text x="61" y="293" font-family="Arial,sans-serif" font-size="14" fill="#71809b">Inspiration</text>
+  <path d="M30 323h162" stroke="#e5e9f1"/>
+  <text x="34" y="363" font-family="Arial,sans-serif" font-size="11" font-weight="700" letter-spacing="2" fill="#9aa7bc">COLLECTIONS</text>
+  <circle cx="42" cy="394" r="6" fill="#f8bb8d"/>
+  <text x="61" y="400" font-family="Arial,sans-serif" font-size="14" fill="#71809b">Ideas</text>
+  <circle cx="42" cy="434" r="6" fill="#9cd9c7"/>
+  <text x="61" y="440" font-family="Arial,sans-serif" font-size="14" fill="#71809b">Resources</text>
+  <text x="265" y="129" font-family="Arial,sans-serif" font-size="13" fill="#8b98ad">WORKSPACE / OVERVIEW</text>
+  <text x="265" y="190" font-family="Arial,sans-serif" font-size="35" font-weight="700" fill="#1f2c49">Good morning, Alex <tspan fill="#e8a04f">✦</tspan></text>
+  <text x="265" y="226" font-family="Arial,sans-serif" font-size="16" fill="#71809b">A little space for your next big idea.</text>
+  <rect x="265" y="267" width="602" height="276" rx="20" fill="#ecedff"/>
+  <circle cx="751" cy="334" r="152" fill="#dddfff" opacity=".65"/>
+  <circle cx="849" cy="443" r="125" fill="#d5d9ff" opacity=".7"/>
+  <path d="M612 543c67-100 173-154 255-150v150Z" fill="#b5bdf9" opacity=".65"/>
+  <rect x="299" y="303" width="70" height="23" rx="11" fill="#ffffff" opacity=".9"/>
+  <text x="313" y="319" font-family="Arial,sans-serif" font-size="10" font-weight="700" letter-spacing="1" fill="#626ed6">FEATURED</text>
+  <text x="299" y="389" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#293578">Make room for</text>
+  <text x="299" y="426" font-family="Arial,sans-serif" font-size="31" font-weight="700" fill="#293578">what matters.</text>
+  <text x="299" y="466" font-family="Arial,sans-serif" font-size="14" fill="#5966a2">Collect your thoughts. Create something lovely.</text>
+  <rect x="299" y="489" width="122" height="34" rx="11" fill="#5466df"/>
+  <text x="323" y="511" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#fff">Explore ideas</text>
+  <rect x="889" y="267" width="266" height="276" rx="20" fill="#fff" stroke="#e9edf5"/>
+  <text x="916" y="306" font-family="Arial,sans-serif" font-size="13" font-weight="700" fill="#253250">Quick notes</text>
+  <text x="916" y="340" font-family="Arial,sans-serif" font-size="13" fill="#8491a7">Keep your thoughts close.</text>
+  <path d="M916 370h210M916 404h210M916 438h155" stroke="#e7eaf3" stroke-width="2"/>
+  <circle cx="929" cy="489" r="13" fill="#e8ebff"/>
+  <path d="M923 489h12m-6-6v12" stroke="#6676e9" stroke-width="2"/>
+  <text x="952" y="494" font-family="Arial,sans-serif" font-size="12" font-weight="700" fill="#6676e9">Add a note</text>
+  <text x="265" y="606" font-family="Arial,sans-serif" font-size="19" font-weight="700" fill="#253250">Your projects</text>
+  <rect x="265" y="629" width="282" height="112" rx="16" fill="#fff" stroke="#e9edf5"/>
+  <rect x="287" y="652" width="39" height="39" rx="11" fill="#ffe5dc"/>
+  <circle cx="306" cy="671" r="9" fill="#f3a991"/>
+  <text x="340" y="672" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#253250">Creative journal</text>
+  <text x="340" y="693" font-family="Arial,sans-serif" font-size="12" fill="#8b98ad">Personal collection</text>
+  <rect x="565" y="629" width="282" height="112" rx="16" fill="#fff" stroke="#e9edf5"/>
+  <rect x="587" y="652" width="39" height="39" rx="11" fill="#dff5ed"/>
+  <circle cx="606" cy="671" r="9" fill="#82ceb0"/>
+  <text x="640" y="672" font-family="Arial,sans-serif" font-size="14" font-weight="700" fill="#253250">Studio moodboard</text>
+  <text x="640" y="693" font-family="Arial,sans-serif" font-size="12" fill="#8b98ad">Visual collection</text>
+</svg>
